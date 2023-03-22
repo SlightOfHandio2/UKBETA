@@ -1,0 +1,12 @@
+
+state={
+	id=506
+	name="STATE_506"
+	provinces={
+		1603 10818 10873 10889 10893 10924 10931 10958 11011 11050 11056 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

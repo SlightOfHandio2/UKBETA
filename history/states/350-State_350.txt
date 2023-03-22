@@ -1,0 +1,12 @@
+
+state={
+	id=350
+	name="STATE_350"
+	provinces={
+		95 110 800 1417 1557 1893 2023 2127 2212 2388 2544 2722 3078 3127 4368 4394 7961 7978 8002 8027 8033 8051 8091 8099 8103 8117 8121 8122 8125 8140 8143 8146 8149 8158 
+	}
+	manpower=1
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}
