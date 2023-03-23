@@ -1,15 +1,20 @@
+
 state={
 	id=476
 	name="STATE_476"
-	history = {
+
+	history={
 		victory_points = {
-			4464 35
+			4464 35 
 		}
+
 	}
+
 	provinces={
-		398 567 2783 4004 4182 4236 4464 10363 10367 10384 10390 10399 10417 10423 10425 10432 10438 10439 10450 10464 10467 
+		2783 4236 4464 10363 10399 
 	}
+	manpower=1
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+	state_category=town
+	local_supplies=0.000
 }
