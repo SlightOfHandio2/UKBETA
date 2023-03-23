@@ -1,6 +1,11 @@
 state={
 	id=89
 	name="STATE_89"
+	history = {
+		victory_points = {
+			3527 50
+		}
+	}
 	provinces={
 		728 1682 2798 2845 3527 3562 3640 10342 10372 10377 10412 10426 10465 
 	}
