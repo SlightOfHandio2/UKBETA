@@ -1,0 +1,13 @@
+state={
+	id=514
+	name="STATE_514"
+	provinces={
+		2239 2714 3880 4273 11367 11369 11374 11377 11380 
+	}
+	history={
+		owner = TST
+	}
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = town
+}
