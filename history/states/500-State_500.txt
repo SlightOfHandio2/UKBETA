@@ -5,6 +5,11 @@ state={
 	provinces={
 		731 1794 1795 1986 2145 2230 2461 2502 3317 4031 4293 10876 10911 10918 10928 10929 10939 10955 10956 10965 10982 10992 10993 11009 11014 11015 11016 
 	}
+	history={
+		victory_points = {
+			10956 5
+		}
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town
