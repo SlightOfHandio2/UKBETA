@@ -1,10 +1,17 @@
+
 state={
 	id=219
 	name="STATE_219"
-	provinces={
-		116 383 451 2188 3915 4180 4190 4269 4476 6133 6153 6158 6178 6202 6227 6228 6236 6249 6254 6268 6299 
+	history={
+		victory_points = {
+			6254 3
+		}
 	}
+	provinces={
+		116 383 451 860 1387 1843 2177 2188 2684 2769 3915 4180 4190 4269 4476 6102 6103 6110 6121 6122 6133 6153 6157 6158 6168 6178 6202 6227 6228 6229 6236 6249 6254 6268 6299 
+	}
+	manpower=1
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+	state_category=town
+	local_supplies=0.000
 }

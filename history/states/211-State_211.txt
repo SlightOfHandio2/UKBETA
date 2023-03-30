@@ -1,10 +1,23 @@
+
 state={
 	id=211
 	name="STATE_211"
-	provinces={
-		629 813 2578 2712 2977 3572 3752 3771 4200 4409 5939 5951 5970 5981 5983 6003 6008 6016 6018 6019 6026 6035 6045 6057 
+	history={
+		victory_points = {
+			6057 3
+		}
+		victory_points = {
+			6069 3
+		}
+		victory_points = {
+			3090 3
+		}
 	}
+	provinces={
+		93 629 813 2578 2712 2977 3090 3309 3572 3752 3771 4200 4409 5939 5951 5970 5981 5983 6003 6008 6016 6018 6019 6026 6033 6035 6044 6045 6049 6050 6055 6057 6065 6066 6069 6074 6076 6080 6090 
+	}
+	manpower=1
 	buildings_max_level_factor=1.000
-        manpower=1
-        state_category = town
+	state_category=town
+	local_supplies=0.000
 }

@@ -2,6 +2,14 @@
 state={
 	id=133
 	name="STATE_133"
+	history={
+		victory_points = {
+			3550 8
+		}
+		victory_points = {
+			5079 3
+		}
+	}
 	provinces={
 		216 1058 2634 3254 3550 4226 4901 4902 4911 4918 4919 4920 4928 4939 4940 4963 
 	}
