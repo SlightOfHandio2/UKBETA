@@ -5,10 +5,10 @@ This mod is a complete overhaul of the game, transforming it into a UK focused c
 To give an Idea of what I'm aiming for here these are a few of the things I've got planned:
 
 Shaun the sheep, Bob mortimer, Ronnie Pickering and Demoman all to be country leaders
-# more stuff here
-# more stuff here
 
+Custom focus tree to raise lizzy from the dead)
 
+Barry 53, from sunderland
 
 Aims before public release (0.5v):
 
