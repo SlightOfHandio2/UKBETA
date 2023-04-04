@@ -3,6 +3,8 @@ state={
 	id=301
 	name="STATE_301"
 	history={
+		owner = BOB
+		add_core_of = BOB
 		victory_points = {
 			4164 3 
 		}

@@ -1,6 +1,10 @@
 state={
 	id=115
 	name="STATE_115"
+	history={
+		owner = DMO
+		add_core_of = DMO
+	}
 	provinces={
 		28 345 388 535 1053 1977 4719 4720 4723 4728 4737 4745 4757 
 	}

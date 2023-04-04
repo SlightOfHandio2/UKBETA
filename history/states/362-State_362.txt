@@ -2,6 +2,10 @@
 state={
 	id=362
 	name="STATE_362"
+	history={
+		owner = PCK
+		add_core_of = PCK
+	}
 	provinces={
 		578 2932 3412 3766 4169 4323 8271 8284 8294 8313 8326 8334 
 	}

@@ -1,6 +1,10 @@
 state={
 	id=550
 	name="STATE_550"
+	history={
+		owner = GRG
+		add_core_of = GRG		
+	}
 	provinces={
 		239 764 2304 3276 6819 6848 6856 6877 6896 6912 6930 6940 6949 
 	}

@@ -3,6 +3,8 @@ state={
 	id=248
 	name="STATE_248"
 	history={
+		owner = GRG
+		add_core_of = GRG		
 		victory_points = {
 			6761 3 
 		}

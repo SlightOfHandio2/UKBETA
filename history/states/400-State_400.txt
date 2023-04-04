@@ -1,6 +1,9 @@
 state={
 	id=400
 	name="STATE_400"
+  resources = {
+      oil = 37
+  }
 	history={
 		victory_points = {
 			9205 3

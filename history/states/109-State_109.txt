@@ -2,6 +2,13 @@
 state={
 	id=109
 	name="STATE_109"
+  resources = {
+      oil = 31
+  }
+	history = {
+		owner = SHT
+		add_core_of = SHT		
+	}
 	provinces={
 		1660 1771 2158 4645 4647 4648 4650 4651 4655 4656 4658 4660 4663 
 	}

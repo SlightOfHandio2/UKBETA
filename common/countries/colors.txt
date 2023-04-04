@@ -6,3 +6,31 @@ MOH = {
 	color = rgb { 252 194 3 }
 	color_ui = rgb { 252 194 3 }
 }
+DMO = {
+	color = rgb { 245 90 66 }
+	color_ui = rgb { 245 90 66 }
+}
+SHP = {
+	color = rgb { 191 191 191 }
+	color_ui = rgb { 191 191 191 }
+}
+BOB = {
+	color = rgb { 209 132 0 }
+	color_ui = rgb { 209 132 0 }
+}
+MAR = {
+	color = rgb { 28 209 0 }
+	color_ui = rgb { 28 209 0 }
+}
+PCK = {
+	color = rgb { 128 8 0 }
+	color_ui = rgb {128 8 0  }
+}
+SHT = {
+	color = rgb { 3 177 252 }
+	color_ui = rgb {3 177 252  }
+}
+GRG = {
+	color = rgb { 5 125 176 }
+	color_ui = rgb {5 125 176  }
+}

@@ -1,2 +1,9 @@
 TST = "countries/Test.txt"
 MOH = "countries/Monarchy.txt"
+DMO = "countries/Demoman.txt"
+SHP = "countries/Sheep.txt"
+MAR = "countries/Martians.txt"
+BOB = "countries/Bobby.txt"
+PCK = "countries/Pickering.txt"
+SHT = "countries/Shetlands.txt"
+GRG = "countries/Greggs.txt
