@@ -50,3 +50,11 @@ AGL = {
 	color = rgb { 199 27 0 }
 	color_ui = rgb { 199 27 0  }
 }
+NRF = {
+	color = rgb { 240 35 2 }
+	color_ui = rgb { 240 35 2 }
+}
+SUF = {
+	color = rgb { 5 45 247 }
+	color_ui = rgb { 5 45 247 }
+}

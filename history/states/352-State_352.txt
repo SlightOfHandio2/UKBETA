@@ -1,6 +1,10 @@
 state={
 	id=352
 	name="STATE_352"
+	history={
+		owner = NRF
+		add_core_of = NRF	
+	}
 	provinces={
 		432 1371 1588 4392 8074 8089 8112 8119 8132 8133 8137 8151 8185 
 	}

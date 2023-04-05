@@ -2,6 +2,8 @@ state={
 	id=354
 	name="STATE_354"
 	history={
+		owner = NRF
+		add_core_of = NRF	
 		victory_points = {
 			8249 8
 		}
