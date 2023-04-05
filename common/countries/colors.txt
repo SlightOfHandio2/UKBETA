@@ -34,3 +34,19 @@ GRG = {
 	color = rgb { 5 125 176 }
 	color_ui = rgb {5 125 176  }
 }
+BEA = {
+	color = rgb { 255 158 186 }
+	color_ui = rgb { 255 158 186 }
+}
+DAW = {
+	color = rgb { 99 25 0 }
+	color_ui = rgb { 99 25 0   }
+}
+BAK = {
+	color = rgb { 145 250 255 }
+	color_ui = rgb { 145 250 255 }
+}
+AGL = {
+	color = rgb { 199 27 0 }
+	color_ui = rgb { 199 27 0  }
+}

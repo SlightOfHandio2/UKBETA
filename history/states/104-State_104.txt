@@ -2,6 +2,10 @@
 state={
 	id=104
 	name="STATE_104"
+	history={
+		owner = WIT
+		add_core_of = WIT
+	}
 	provinces={
 		525 2224 3043 4285 11179 11194 11214 11215 11234 11238 
 	}

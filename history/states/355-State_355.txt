@@ -6,6 +6,8 @@ state={
       oil = 38
   }
 	history={
+		owner = BEA
+		add_core_of = BEA
 		victory_points = {
 			359 15
 		}

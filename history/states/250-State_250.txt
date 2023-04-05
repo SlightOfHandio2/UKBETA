@@ -1,6 +1,10 @@
 state={
 	id=250
 	name="STATE_250"
+	history={
+		owner = GRG
+		add_core_of = GRG		
+	}
 	provinces={
 		210 1220 1416 2628 3304 6683 6699 6719 6745 6748 
 	}

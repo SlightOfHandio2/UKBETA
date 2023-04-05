@@ -3,6 +3,8 @@ state={
 	id=382
 	name="STATE_382"
 	history={
+		owner = AGL
+		add_core_of = AGL
 		victory_points = {
 			8634 3
 		}
