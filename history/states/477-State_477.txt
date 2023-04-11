@@ -5,6 +5,8 @@ state={
 		victory_points = {
 			708 10 
 		}
+		owner = SUE
+		add_core_of = SUE			
 	}
 	provinces={
 		27 708 2667 3042 3500 10373 10389 10416 10454 10479 

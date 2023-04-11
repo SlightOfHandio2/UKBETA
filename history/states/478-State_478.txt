@@ -5,6 +5,10 @@ state={
 	provinces={
 		1166 1481 1567 2245 3253 4184 10265 10312 10350 10351 10357 10394 
 	}
+	history={
+		owner = SUE
+		add_core_of = SUE			
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=town

@@ -8,6 +8,8 @@ state={
 		victory_points = {
 			10809 15
 		}
+		owner = DOV
+		add_core_of = DOV	
 	}
 	provinces={
 		1127 1323 1507 3551 10709 10716 10721 10751 10779 10809 10823 10824 10852 

@@ -1,6 +1,10 @@
 state={
 	id=29
 	name="STATE_29"
+	history={
+		owner = HER
+		add_core_of = HER	
+	}
 	provinces={
 		2489 6089 6116 6132 6144 6156 
 	}

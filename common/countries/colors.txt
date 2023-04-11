@@ -58,3 +58,23 @@ SUF = {
 	color = rgb { 5 45 247 }
 	color_ui = rgb { 5 45 247 }
 }
+SUE = {
+	color = rgb { 102 130 0 }
+	color_ui = rgb { 102 130 0  }
+}
+BLK = {
+	color = rgb { 54 52 48 }
+	color_ui = rgb { 54 52 48  }
+}
+HER = {
+	color = rgb { 27 47 97 }
+	color_ui = rgb { 27 47 97  }
+}
+HEO = {
+	color = rgb { 53 96 204 }
+	color_ui = rgb { 53 96 204  }
+}
+DOV = {
+	color = rgb { 122 122 122 }
+	color_ui = rgb { 122 122 122  }
+}

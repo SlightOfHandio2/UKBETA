@@ -9,6 +9,8 @@ state={
 		victory_points = {
 			10172 5
 		}
+		owner = OXF
+		add_core_of = OXF			
 	}
 	provinces={
 		649 969 3066 10150 10172 10186 10203 10238 
