@@ -1,4 +1,4 @@
-TST = "countries/Test.txt"
+COW = "countries/Cornwall.txt"
 MOH = "countries/Monarchy.txt"
 DMO = "countries/Demoman.txt"
 SHP = "countries/Sheep.txt"
@@ -20,3 +20,6 @@ HER = "countries/Hebrides.txt"
 HEO = "countries/HebridesOuters.txt"
 OXF = "countries/Oxford.txt"
 DOV = "countries/Dover.txt"
+LKD = "countries/LakeDistrict.txt"
+ORK = "countries/Orkney.txt"
+CAB = "countries/Cambridge.txt

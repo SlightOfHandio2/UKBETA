@@ -5,8 +5,10 @@ state={
 		1308 1395 1633 2924 3954 11370 11372 11375 11376 11378 11379 11382 
 	}
 	history={
+		owner = COW
+		add_core_of = COW	
 		victory_points = {
-			11372 10 
+			11372 5 
 		}
 	}
 	buildings_max_level_factor=1.000

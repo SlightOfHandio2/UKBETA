@@ -2,14 +2,16 @@ state={
 	id=517
 	name="STATE_517"
 	history={
+		owner = COW
+		add_core_of = COW	
 		victory_points = {
-			11363 5 
+			11363 10 
 		}
 		victory_points = {
-			11355 5 
+			11355 4 
 		}
 		victory_points = {
-			11346 5 
+			11346 4 
 		}
 		victory_points = {
 			192 5 

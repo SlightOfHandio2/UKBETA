@@ -1,6 +1,10 @@
 state={
 	id=6
 	name="STATE_6"
+	history={
+		owner = ORK
+		add_core_of = ORK	
+	}
 	provinces={
 		4035 4369 4572 4577 4582 4588 4594 
 	}

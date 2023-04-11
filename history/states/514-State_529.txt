@@ -5,7 +5,8 @@ state={
 		2239 2714 3880 4273 11367 11369 11374 11377 11380 
 	}
 	history={
-		owner = TST
+		owner = COW
+		add_core_of = COW	
 		victory_points = {
 			3880 5
 		}
