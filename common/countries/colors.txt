@@ -94,3 +94,23 @@ CAB = {
 	color = rgb { 176 150 55 }
 	color_ui = rgb { 176 150 55  }
 }
+JME = {
+	color = rgb { 100 181 121 }
+	color_ui = rgb { 100 181 121  }
+}
+JER = {
+	color = rgb { 71 53 19 }
+	color_ui = rgb { 71 53 19  }
+}
+RCH = {
+	color = rgb { 184 59 9 }
+	color_ui = rgb { 184 59 9  }
+}
+BRE = {
+	color = rgb { 0 181 45 }
+	color_ui = rgb { 0 181 45  }
+}
+SNW = {
+	color = rgb { 0 87 22 }
+	color_ui = rgb {0 87 22  }
+}

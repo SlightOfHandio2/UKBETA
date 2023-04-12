@@ -1,19 +1,25 @@
+
 state={
 	id=566
 	name="STATE_566"
+
 	history={
+		owner = BRE
+		add_core_of = BRE
 		victory_points = {
-			2840 15
+			2840 15 
 		}
 		victory_points = {
-			2738 20
+			2738 20 
 		}
+
 	}
+
 	provinces={
-		87 1558 1730 1790 1965 3229 3643 4161 4262 4478 9960 9999 10004 10016 10035 10047 10054 10061 10062 10106 10107 10144 10193 10209 
+		87 1558 1730 1790 1965 2371 3229 3643 4161 4262 4478 9960 9999 10004 10016 10035 10047 10054 10061 10062 10106 10107 10119 10144 10157 10161 10193 10199 10209 10224 10254 10267 10293 10304 
 	}
-  manpower=1
-  state_category = town
+	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=town
 	local_supplies=0.000
 }

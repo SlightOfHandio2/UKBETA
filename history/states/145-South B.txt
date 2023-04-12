@@ -3,6 +3,8 @@ state={
 	id=145
 	name="STATE_145"
 	history={
+		owner = JME
+		add_core_of = JME
 		victory_points = {
 			10504 5
 		}
