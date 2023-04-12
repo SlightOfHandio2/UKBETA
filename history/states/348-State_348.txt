@@ -2,6 +2,11 @@ state={
 	id=348
 	name="STATE_348"
 	history={
+		owner = ISL
+		add_core_of = ISL
+		victory_points = {
+			8006 8
+		}
 		victory_points = {
 			8088 4
 		}

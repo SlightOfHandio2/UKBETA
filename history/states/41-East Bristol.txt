@@ -5,6 +5,8 @@ state={
 		1185 1248 2216 2805 3710 10392 10413 10445 10468 10515 
 	}
 	history={
+		owner = BIL
+		add_core_of = BIL		
 		victory_points = {
 			10515 25
 		}

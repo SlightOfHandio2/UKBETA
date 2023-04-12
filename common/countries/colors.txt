@@ -114,3 +114,19 @@ SNW = {
 	color = rgb { 0 87 22 }
 	color_ui = rgb {0 87 22  }
 }
+BIL = {
+	color = rgb { 193 171 217 }
+	color_ui = rgb { 193 171 217  }
+}
+NEW = {
+	color = rgb { 39 75 92 }
+	color_ui = rgb { 39 75 92 }
+}
+CAD = {
+	color = rgb { 179 172 86 }
+	color_ui = rgb { 179 172 86 }
+}
+ISL = {
+	color = rgb { 133 11 0 }
+	color_ui = rgb { 133 11 0 }
+}
