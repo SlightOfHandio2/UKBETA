@@ -142,3 +142,39 @@ STN = {
 	color = rgb { 194 116 72 }
 	color_ui = rgb { 194 116 72 }
 }
+KLK = {
+	color = rgb { 46 71 84 }
+	color_ui = rgb { 46 71 84 }
+}
+YRK = {
+	color = rgb { 128 66 0 }
+	color_ui = rgb { 128 66 0 }
+}
+GLS = {
+	color = rgb { 90 0 158 }
+	color_ui = rgb { 90 0 158 }
+}
+RED = {
+	color = rgb { 201 6 0 }
+	color_ui = rgb { 201 6 0 }
+}
+LED = {
+	color = rgb { 230 210 0 }
+	color_ui = rgb { 230 210 0  }
+}
+NOL = {
+	color = rgb { 145 81 112 }
+	color_ui = rgb { 145 81 112  }
+}
+LIA = {
+	color = rgb { 81 83 145 }
+	color_ui = rgb { 81 83 145  }
+}
+NPN = {
+	color = rgb { 6 184 6 }
+	color_ui = rgb { 6 184 6  }
+}
+SHE = {
+	color = rgb { 132 138 84 }
+	color_ui = rgb { 132 138 84  }
+}

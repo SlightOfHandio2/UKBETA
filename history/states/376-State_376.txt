@@ -5,6 +5,8 @@ state={
       oil = 32
   }
 	history={
+		owner = LIA
+		add_core_of = LIA	
 		victory_points = {
 			1374 5
 		}

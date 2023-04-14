@@ -2,6 +2,7 @@ state={
 	id=64
 	name="STATE_64"
 	history={
+
 		victory_points = {
 			8713 5 
 		}
