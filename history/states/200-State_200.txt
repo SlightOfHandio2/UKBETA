@@ -3,6 +3,8 @@ state={
 	id=200
 	name="STATE_200"
 	history={
+		owner = OBI
+		add_core_of = OBI		
 		victory_points = {
 			5906 15 
 		}

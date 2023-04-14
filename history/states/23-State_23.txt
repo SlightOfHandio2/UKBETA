@@ -2,6 +2,10 @@
 state={
 	id=23
 	name="STATE_23"
+	history={
+		owner = OBI
+		add_core_of = OBI		
+	}
 	provinces={
 		1129 1731 3033 3584 3735 5563 5581 5591 5594 5595 5600 5611 5615 5627 5644 5647 
 	}

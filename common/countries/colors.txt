@@ -130,3 +130,15 @@ ISL = {
 	color = rgb { 133 11 0 }
 	color_ui = rgb { 133 11 0 }
 }
+OBI = {
+	color = rgb { 3 196 255 }
+	color_ui = rgb { 3 196 255 }
+}
+BEH = {
+	color = rgb { 39 44 46 }
+	color_ui = rgb { 39 44 46 }
+}
+STN = {
+	color = rgb { 194 116 72 }
+	color_ui = rgb { 194 116 72 }
+}
