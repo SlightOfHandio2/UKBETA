@@ -2,6 +2,8 @@ state={
 	id=553
 	name="STATE_553"
 	history={
+		owner = SIB
+		add_core_of = SIB	
 		victory_points = {
 			1555 5
 		}

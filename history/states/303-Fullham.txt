@@ -2,6 +2,8 @@ state={
 	id=303
 	name="STATE_303"
 	history={
+		owner = NDO
+		add_core_of = NDO
 		victory_points = {
 			10488 10 
 		}

@@ -178,3 +178,35 @@ SHE = {
 	color = rgb { 132 138 84 }
 	color_ui = rgb { 132 138 84  }
 }
+NDO = {
+	color = rgb { 252 148 3 }
+	color_ui = rgb { 252 148 3  }
+}
+CSN = {
+	color = rgb { 14 32 161 }
+	color_ui = rgb { 14 32 161  }
+}
+TSC = {
+	color = rgb { 0 30 255 }
+	color_ui = rgb { 0 30 255 }
+}
+SIB = {
+	color = rgb { 255 60 0 }
+	color_ui = rgb { 255 60 0  }
+}
+WHP = {
+	color = rgb { 39 0 138 }
+	color_ui = rgb { 39 0 138 }
+}
+WTS = {
+	color = rgb { 38 16 0 }
+	color_ui = rgb { 38 16 0 }
+}
+GUD = {
+	color = rgb { 255 255 0 }
+	color_ui = rgb { 255 255 0 }
+}
+BAR = {
+	color = rgb { 224 0 75 }
+	color_ui = rgb { 224 0 75 }
+}
