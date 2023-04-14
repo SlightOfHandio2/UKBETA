@@ -3,6 +3,8 @@ state={
 	id=404
 	name="STATE_404"
 	history={
+		owner = WRX
+		add_core_of = WRX
 		victory_points = {
 			4072 5 
 		}

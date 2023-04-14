@@ -4,6 +4,8 @@ state={
 	name="STATE_510"
 
 	history={
+		owner = PRM
+		add_core_of = PRM
 		victory_points = {
 			3839 55 
 		}

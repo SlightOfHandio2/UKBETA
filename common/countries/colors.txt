@@ -47,8 +47,8 @@ BAK = {
 	color_ui = rgb { 145 250 255 }
 }
 AGL = {
-	color = rgb { 199 27 0 }
-	color_ui = rgb { 199 27 0  }
+	color = rgb { 66 201 127 }
+	color_ui = rgb { 66 201 127 }
 }
 NRF = {
 	color = rgb { 240 35 2 }
@@ -209,4 +209,20 @@ GUD = {
 BAR = {
 	color = rgb { 224 0 75 }
 	color_ui = rgb { 224 0 75 }
+}
+PRM = {
+	color = rgb { 53 70 102 }
+	color_ui = rgb { 53 70 102 }
+}
+WRX = {
+	color = rgb { 219 0 0 }
+	color_ui = rgb { 219 0 0 }
+}
+STK = {
+	color = rgb { 61 252 3 }
+	color_ui = rgb { 61 252 3 }
+}
+SHR = {
+	color = rgb { 115 54 0 }
+	color_ui = rgb { 115 54 0 }
 }

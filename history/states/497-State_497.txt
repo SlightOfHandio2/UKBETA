@@ -2,6 +2,22 @@
 state={
 	id=497
 	name="STATE_497"
+	history={
+		owner = PRM
+		add_core_of = PRM
+		victory_points = {
+			11186 5 
+		}
+		victory_points = {
+			834 10
+		}
+		victory_points = {
+			11124 10 
+		}
+		victory_points = {
+			644 5 
+		}
+	}
 	provinces={
 		201 644 834 1397 1981 3513 3533 3647 4158 10962 10973 11005 11006 11007 11018 11034 11043 11066 11070 11087 11108 11124 11132 11134 11138 11139 11156 11172 11176 11186 
 	}

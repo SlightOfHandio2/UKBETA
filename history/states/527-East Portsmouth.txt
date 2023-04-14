@@ -1,6 +1,10 @@
 state={
 	id=527
 	name="STATE_527"
+	history={
+		owner = PRM
+		add_core_of = PRM
+	}
 	provinces={
 		4365 10971 11086 11093 11123 
 	}
