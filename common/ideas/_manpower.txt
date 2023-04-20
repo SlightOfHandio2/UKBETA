@@ -6,7 +6,7 @@ ideas = {
 
 		disarmed_nation = {
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 7
 
@@ -15,7 +15,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.01
+				conscription = 0.03
 			}
 
 			cancel_if_invalid = no
@@ -23,7 +23,7 @@ ideas = {
 
 		volunteer_only = {
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 6
 
@@ -50,7 +50,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.015
+				conscription = 0.05
 			}
 
 			default = yes
@@ -60,7 +60,7 @@ ideas = {
 
 		limited_conscription = {
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 5
 
@@ -123,7 +123,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.025
+				conscription = 0.1
 			}
 
 			ai_will_do = {
@@ -278,12 +278,12 @@ ideas = {
 
 			}
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 4
 
 			modifier = {
-				conscription = 0.05
+				conscription = 0.2
 				#industrial_capacity_factory = -0.1
 				#production_speed_buildings_factor = -0.1
 				training_time_factor = 0.1
@@ -422,12 +422,12 @@ ideas = {
 
 			}
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 3
 
 			modifier = {
-				conscription = 0.1
+				conscription = 0.40
 				industrial_capacity_factory = -0.1
 				industrial_capacity_dockyard = -0.1
 				production_speed_buildings_factor = -0.1
@@ -552,12 +552,12 @@ ideas = {
 
 			}
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 2
 
 			modifier = {
-				conscription = 0.2
+				conscription = 0.7
 				industrial_capacity_factory = -0.3
 				industrial_capacity_dockyard = -0.3
 				production_speed_buildings_factor = -0.3
@@ -667,12 +667,12 @@ ideas = {
 
 			}
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 1
 
 			modifier = {
-				conscription = 0.25
+				conscription = 0.80
 				industrial_capacity_factory = -0.4
 				industrial_capacity_dockyard = -0.4
 				production_speed_buildings_factor = -0.4
@@ -685,7 +685,7 @@ ideas = {
 		### Ethiopian National Levy
 		ETH_chitet_law = {
 			picture = ETH_chitet_law
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 6
 
@@ -715,7 +715,7 @@ ideas = {
 		ETH_chitet_law_peace_time = {
 			picture = ETH_chitet_law
 
-			cost = 150
+			cost = 300
 			removal_cost = -1
 			level = 6
 
@@ -765,7 +765,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.1
+				conscription = 0.40
 				custom_modifier_tooltip = SWI_army_limitations_TT
 				ai_desired_divisions_factor = 1
 			}
@@ -791,7 +791,7 @@ ideas = {
 			}
 
 			modifier = {
-				conscription = 0.2
+				conscription = 0.70
 				custom_modifier_tooltip = SWI_army_limitations_TT
 				ai_desired_divisions_factor = 2
 			}
