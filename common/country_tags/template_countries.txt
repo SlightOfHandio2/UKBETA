@@ -56,4 +56,6 @@ PRM = "countries/Portsmouth.txt"
 WRX = "countries/Wrexham.txt"
 STK = "countries/StokeOnTrent.txt"
 SHR = "countries/Shropshire.txt"
-LIM = "countries/LiamNeeson.txt
+LIM = "countries/LiamNeeson.txt"
+NFK = "countries/Norfolk.txt"
+LOL = "countries/Loughester.txt"

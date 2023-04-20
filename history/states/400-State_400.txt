@@ -5,6 +5,8 @@ state={
       oil = 37
   }
 	history={
+		owner = NFK
+		add_core_of = NFK	
 		victory_points = {
 			9205 3
 		}

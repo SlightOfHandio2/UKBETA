@@ -3,6 +3,8 @@ state={
 	id=411
 	name="STATE_411"
 	history={
+		owner = LOL
+		add_core_of = LOL	
 		victory_points = {
 			9093 5 
 		}

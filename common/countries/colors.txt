@@ -230,3 +230,11 @@ LIM = {
 	color = rgb { 186 153 196 }
 	color_ui = rgb { 186 153 196 }
 }
+NFK = {
+	color = rgb { 71 50 47 }
+	color_ui = rgb { 71 50 47 }
+}
+LOL = {
+	color = rgb { 135 135 135 }
+	color_ui = rgb { 135 135 135 }
+}
