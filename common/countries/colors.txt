@@ -226,3 +226,7 @@ SHR = {
 	color = rgb { 115 54 0 }
 	color_ui = rgb { 115 54 0 }
 }
+LIM = {
+	color = rgb { 186 153 196 }
+	color_ui = rgb { 186 153 196 }
+}
