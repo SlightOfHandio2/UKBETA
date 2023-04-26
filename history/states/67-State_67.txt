@@ -2,7 +2,8 @@ state={
 	id=67
 	name="STATE_67"
 	history={
-
+		owner = LOL
+		add_core_of = LOL	
 	}
 	provinces={
 		2484 3573 3814 8905 8930 8950 9040 
