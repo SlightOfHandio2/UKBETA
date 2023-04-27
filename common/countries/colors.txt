@@ -238,3 +238,19 @@ LOL = {
 	color = rgb { 135 135 135 }
 	color_ui = rgb { 135 135 135 }
 }
+SKG = {
+	color = rgb { 235 192 52 }
+	color_ui = rgb { 235 192 52 }
+}
+BSS = {
+	color = rgb { 99 21 0 }
+	color_ui = rgb { 99 21 0 }
+}
+SWD = {
+	color = rgb { 74 74 74 }
+	color_ui = rgb { 74 74 74 }
+}
+CRM = {
+	color = rgb { 7 92 7 }
+	color_ui = rgb { 7 92 7 }
+}

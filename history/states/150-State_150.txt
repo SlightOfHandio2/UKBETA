@@ -1,6 +1,10 @@
 state={
 	id=150
 	name="STATE_150"
+	history={
+		owner = CRM
+		add_core_of = CRM
+	}
 	provinces={
 		1162 1674 1824 2246 2398 3414 5051 5069 5070 5093 5125 5137 5162 5191 
 	}
