@@ -3,10 +3,13 @@ state={
 	id=56
 	name="STATE_56"
 	history={
-		owner = NRF
-		add_core_of = NRF	
+		owner = WAL
+		add_core_of = WAL	
 		victory_points = {
-			1006 5
+			1006 11
+		}
+		victory_points = {
+			4398 5
 		}
 		victory_points = {
 			8350 10

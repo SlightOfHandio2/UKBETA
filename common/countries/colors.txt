@@ -254,3 +254,27 @@ CRM = {
 	color = rgb { 7 92 7 }
 	color_ui = rgb { 7 92 7 }
 }
+BUR = {
+	color = rgb { 235 64 52 }
+	color_ui = rgb { 235 64 52 }
+}
+LUT = {
+	color = rgb { 237 126 155 }
+	color_ui = rgb { 237 126 155 }
+}
+WAL = {
+	color = rgb { 199 152 32 }
+	color_ui = rgb { 199 152 32 }
+}
+BAT = {
+	color = rgb { 128 75 27 }
+	color_ui = rgb { 128 75 27 }
+}
+MBO = {
+	color = rgb { 68 166 151 }
+	color_ui = rgb { 68 166 151 }
+}
+IBW = {
+	color = rgb { 186 191 190 }
+	color_ui = rgb { 186 191 190 }
+}
