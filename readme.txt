@@ -24,3 +24,5 @@ Eventual Additions:
 - More Custom Focus trees
 - Lakes Added to the map
 - The rest of ireland + islands around the UK (Jersey, Guernsey etc)
+
+// all of the above can be forgotten, planning to now go open source
