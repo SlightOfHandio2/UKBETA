@@ -1,28 +1,9 @@
-Welcome to the Battle for Britian mod for Hearts of Iron 4!
+Currently looking for people to help manage / contribute to this project. 
 
-This mod is a complete overhaul of the game, transforming it into a UK focused civil war game. This civil war won't be rooted in any sort of history/reality.
+//i copied below from Rd to 56
 
-To give an Idea of what I'm aiming for here these are a few of the things I've got planned:
+--IMPORTANT-- Contributor & Developer Agreement: If a contributor or developer creates either original[2] assets, code, or localization for 'UKBETA' and that work is published,[1] 'UKBETA' retains the right to use that material even if said contributor or developer no longer wishes to be or have said work affiliated with 'UKBETA' under opensource development principles. Once said assets, code, or localization is published,[1] the contributor or developer cannot invoke Hearts of Iron 4 Modding Community guidelines as a basis for removal of work. The above stipulations do not apply to code or assets that have been made for other Hearts of Iron 4 Modifications, other forms of media, or work that derives from copyrighted material as defined by either United States or European Union law that is included in 'UKBETA.'[3] The contributor or developer may ask to withdraw work if said work isn't published[1] yet. To reiterate: 'UKBETA' retains the right to use all original contributor and developer work made for 'UKBETA.' Even if said contributor and developer wishes to be no longer affiliated with UKBETA and asks for removal of assets, code, or localization made by them. Such requests are considered meritless under this agreement. If you want to discuss particulars of this agreement, contact slight Of Handio
 
-Shaun the sheep, Bob mortimer, Ronnie Pickering and Demoman all to be country leaders
+Thanks for reading!
 
-Custom focus tree to raise lizzy from the dead)
-
-Barry 53, from sunderland
-
-Aims before public release (0.5v):
-
-- New goverment types
-- Custom Laws/Goveners
-- Custom Decisions
-- Atleast 20 different countries, including atleast 5 majors (probably will end up being more)
-- All Majors and some minors with custom focus trees
-- Fully configured custom UK map.
-
-Eventual Additions:
-- Custom Tech tree
-- More Custom Focus trees
-- Lakes Added to the map
-- The rest of ireland + islands around the UK (Jersey, Guernsey etc)
-
-// all of the above can be forgotten, planning to now go open source
+Footnotes & Definitions [1]-'Published' is defined as work uploaded to either Road to 56's official Steam or PDX Workshop pages, including official Beta pages. [2]- The burden of proof when proving work is not 'original' falls upon the contributor or developer making such a claim. [3]- This stipulation is considered the only valid exit clause for the contributor and developer agreement. The burden of proof for activating this clause falls upon the contributor or developer making such a claim.
